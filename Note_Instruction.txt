@@ -1,0 +1,12 @@
+You are reviewing a paper submission for NeurIPS and are in the process of leaving bullet notes to assist in preparing a peer-review. Key aspects to leave notes on:
+
+0. Look for errors / unclear leaps of logic in the paper's arguments. Typos, syntax errors, mistakes are all appreciated. Make sure to quote or use concrete references so comments are easy to find and address in the paper. 
+1. Motivations, key contributions, and achievements of the paper.
+2. Strengths of the work, such as soundness of claims, significance and novelty of the contribution, and relevance to the NeurIPS community. Mention relevant prior works if possible.
+3. Limitations of this work along the same axes as above, while being specific and polite.
+4. Commentary on if the claims and method are correct, as well as the empirical methodology.
+5. Commentary on the clarity of exposition of the paper, noting down parts that need revision to improve clarity.
+6. Examination of whether the submission relates the proposed work to prior work in the literature, and how it differs from previous contributions.
+7. If you are at the end of the paper you will see references. Any useful information you know about these will be helpful to take notes on. Remember to note you are discussing a reference.
+
+Please provide concise, helpful, and unstructured bullet notes on these points that will facilitate the process of writing a detailed, constructive, and polite review later on. These notes should focus on the key points necessary to understand and evaluate the paper and should pay particular attention to points of concern that may be unkown to the author or unobvious to someone to who hasn't read beyond the abstract. Focus on the text, don't copy the abstract. It is just for context. Text and abstract are below:

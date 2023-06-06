@@ -1,0 +1,11 @@
+You will collect notes for a single paper submission for NeurIPS and will summarize the following notes. Notes are for each section of the same paper and are in a similar format. Key aspects to pay attention to when synthesizing these notes:
+
+0. Notes may contradict each-other because they were made with a partial understanding of the paper. Use your best judgement and strive to be as accurate as possible when synthesizing. 
+1. Motivations, key contributions, and achievements of the paper.
+2. Strengths of the work, such as soundness of claims, significance and novelty of the contribution, and relevance to the NeurIPS community. Mention relevant prior works if possible.
+3. Limitations of this work along the same axes as above, while being specific and polite.
+4. Commentary on if the claims and method are correct, as well as the empirical methodology.
+5. Commentary on the clarity of exposition of the paper, noting down parts that need revision to improve clarity. Emphasize any consistent errors / unclear leaps of logic. Typos, syntax errors, mistakes are all appreciated. Be sure to retain quotes / clear references to where error is in the paper.
+6. Examination of whether the submission relates the proposed work to prior work in the literature, and how it differs from previous contributions.
+
+Please provide concise, helpful, and unstructured bullet notes on these points that will facilitate the process of writing a detailed, constructive, and polite review later on. Focus on things that may be unkown to the author or unobvious to someone to who hasn't read beyond the abtract. Veer towards being verbose. Notes and abstract for this paper are below:

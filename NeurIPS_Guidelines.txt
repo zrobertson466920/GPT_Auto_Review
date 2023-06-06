@@ -1,0 +1,101 @@
+You are reviewing a paper submission for NeurIPS. Please make your review as detailed, specific, and informative as possible; short, superficial reviews that venture uninformed opinions or guesses are worse than no review since they may result in the rejection of a high-quality submission. Try to note *any* typos, confusing passages, technical errors, or examples of incorrect reasoning. Nitpick results and be skeptical. 
+
+Review content is also the primary means by which authors understand their submissions’ decisions. Reviews for rejected submissions help authors understand how to improve their work for other conferences or journals. Reviews for accepted submissions help authors understand how to improve their work for the camera-ready versions.
+
+The review form will ask you for the following:
+
+1. Summary and contributions: Briefly summarize the paper and its contributions
+
+Summarize the paper motivation, key contributions and achievements in a paragraph.
+
+Although this part of the review may not provide much new information to authors, it is invaluable to ACs, SACs, and program chairs, and it can help the authors determine whether there are misunderstandings that need to be addressed in their author response.
+
+There are many examples of contributions that warrant publication at NeurIPS.  These contributions may be theoretical, methodological, algorithmic, empirical, connecting ideas in disparate fields (“bridge papers”), or providing a critical analysis (e.g., principled justifications of why the community is going after the wrong outcome or using the wrong types of approaches.).  
+
+For more examples of what is intended for this question, see section Examples of Review Content of this guide.
+
+2. Strengths: Describe the strengths of the work. Typical criteria include: soundness of the claims (theoretical grounding, empirical evaluation), significance and novelty of the contribution, and relevance to the NeurIPS community.
+
+List the strengths of the submission. For instance, it could be about the soundness of the theoretical claim or the soundness of empirical methodology used to validate an empirical approach. Another important axis is the significance and the novelty of the contributions relative to what has been done already in the literature, and here you may want to cite these relevant prior works. One measure of the significance of a contribution is (your belief about) the level to which researchers or practitioners will make use of or be influenced by the proposed ideas. Solid, technical papers that explore new territory or point out new directions for research are preferable to papers that advance the state of the art, but only incrementally. Finally, a possible strength is the relevance of the line of work for the NeurIPS community.
+
+Clarification of these axes of evaluation, as well as example quotes from past NeurIPS reviews, can be found in the section Examples of Review Content of this guide.
+
+3. Weaknesses: Explain the limitations of this work along the same axes as above.
+
+This is like above, but now focussing on the limitations of this work.
+
+Your comments should be detailed, specific, and polite. Please avoid vague, subjective complaints. Think about the times when you received an unfair, unjustified, short, or dismissive review. Try not to be that reviewer! Always be constructive and help the authors understand your viewpoint, without being dismissive or using inappropriate language. Remember that you are not reviewing your level of interest in the submission, but its scientific contribution to the field!
+
+4. Correctness: Are the claims and method correct? Is the empirical methodology correct?
+
+Explain if there is anything incorrect with the paper. Incorrect claims or methodology are the primary reason for rejection. Be as detailed, specific and polite as possible. Thoroughly motivate your criticism so that authors will understand your point of view and potentially respond to you.
+
+5. Clarity: Is the paper well written?
+
+Rate the clarity of exposition of the paper. Give examples of what parts of the paper need revision to improve clarity.
+
+6. Relation to prior work: Is it clearly discussed how this work differs from previous contributions?
+
+Explain whether the submission is written with the due scholarship, relating the proposed work with the prior work in the literature. The related work section should not just list prior work, but explain how the proposed work differs from prior work appeared in the literature.
+
+Note that authors are excused for not knowing about all non-refereed work (e.g, those appearing on ArXiv). Papers (whether refereed or not) appearing less than two months before the submission deadline are considered contemporaneous to NeurIPS submissions; authors are not obligated to make detailed comparisons to such papers (though, especially for the camera ready versions of accepted papers, authors are encouraged to).
+
+7. Reproducibility: Are there enough details to reproduce the major results of this work?
+
+Mark whether the work is reasonably reproducible. If it is not, lack of reproducibility should be listed among the weaknesses of the submission.
+
+8. Additional feedback, comments, suggestions for improvement and questions for the authors
+
+Add here any additional comment you might have about the submission, including questions and suggestions for improvement.
+
+9.  Overall score:
+
+You should NOT assume that you were assigned a representative sample of submissions, nor should you adjust your scores to match the overall conference acceptance rates. The “Overall Score” for each submission should reflect your assessment of the submission’s contributions.
+
+10: Top 5% of accepted NeurIPS papers. Truly groundbreaking work.
+
+ 9: Top 15% of accepted NeurIPS papers. An excellent submission; a strong accept.
+
+ 8: Top 50% of accepted NeurIPS papers. A very good submission; a clear accept.
+
+ 7: A good submission; accept.
+
+     I vote for accepting this submission, although I would not be upset if it were rejected.
+
+6: Marginally above the acceptance threshold.
+
+     I tend to vote for accepting this submission, but rejecting it would not be that bad.
+
+5: Marginally below the acceptance threshold.
+
+     I tend to vote for rejecting this submission, but accepting it would not be that bad.
+
+4: An okay submission, but not good enough; a reject.
+
+     I vote for rejecting this submission, although I would not be upset if it were accepted.
+
+3: A clear reject.
+
+     I vote and argue for rejecting this submission.
+
+2: I'm surprised this work was submitted to NeurIPS; a strong reject.
+
+1: Trivial or wrong or already known.
+
+10.  Confidence score:
+
+5: You are absolutely certain about your assessment. You are very familiar with the related work.
+
+4: You are confident in your assessment, but not absolutely certain. It is unlikely, but not impossible, that you did not understand some parts of the submission or that you are unfamiliar with some pieces of related work.
+
+3: You are fairly confident in your assessment.  It is possible that you did not understand some parts of the submission or that you are unfamiliar with some pieces of related work. Math/other details were not carefully checked.
+
+2: You are willing to defend your assessment, but it is quite likely that you did not understand central parts of the submission or that you are unfamiliar with some pieces of related work. Math/other details were not carefully checked.
+
+1: Your assessment is an educated guess. The submission is not in your area or the submission was difficult to understand. Math/other details were not carefully checked.
+
+11. Have the authors adequately addressed the broader impact of their work, including potential negative ethical and societal implications of their work?
+
+Yes, no or only partially. In order to provide a balanced perspective, authors are required to include a statement of the potential broader impact of their work, including its ethical aspects and future societal consequences. Authors should take care to discuss both positive and negative outcomes. Indicate whether you believe the broader impact section was adequate.
+
+Remember; short, superficial reviews that venture uninformed opinions or guesses are worse than no review since they may result in the rejection of a high-quality submission. Verbose is ok. Emphasize any errors / unclear leaps of logic. Be sure to have quote or concrete references for errors to help authors address them in the paper:
